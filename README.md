@@ -10,5 +10,5 @@
 
 ## Getting Output in timeline
 first run gtkwave (we use gtkwave as a software for displaying timeline)
->gtkwave
-then select the .vcd file which has been created
+> gtkwave
+- then select the .vcd file which has been created
