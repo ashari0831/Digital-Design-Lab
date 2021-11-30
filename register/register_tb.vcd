@@ -1,0 +1,54 @@
+$date
+	Fri Nov 26 02:56:07 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module register_tb $end
+$var wire 32 ! q [31:0] $end
+$var reg 1 " clk $end
+$var reg 1 # e $end
+$var reg 1 $ l $end
+$var reg 32 % r [31:0] $end
+$var reg 1 & w $end
+$var integer 32 ' i [31:0] $end
+$scope module UUT $end
+$var wire 1 " clk $end
+$var wire 1 # e $end
+$var wire 1 $ l $end
+$var wire 32 ( r [31:0] $end
+$var wire 1 & w $end
+$var reg 32 ) q [31:0] $end
+$var integer 32 * k [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx *
+b101 )
+b101 (
+b100000 '
+0&
+b101 %
+1$
+1#
+1"
+b101 !
+$end
+#10
+0"
+#20
+b10 !
+b10 )
+b11111111111111111111111111111111 *
+0$
+1"
+b100000 '
+#30
+0"
+#40
+b100000 '
