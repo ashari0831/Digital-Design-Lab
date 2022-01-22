@@ -1,0 +1,1 @@
+Just compile riscv.v or you can use riscv.vcd file in gtkwave or any software to see outputs.
